@@ -3,4 +3,11 @@
   <groupId>upes-devops</groupId>
   <artifactId>DO_Project</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <distributionManagement>
+    <snapshotRepository>
+      <id>repo1</id>
+      <name>repo1</name>
+      <url>http://localhost:8081/repository/repo1/</url>
+    </snapshotRepository>
+  </distributionManagement>
 </project>
