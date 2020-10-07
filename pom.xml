@@ -9,9 +9,9 @@
   </properties>
   <distributionManagement>
     <snapshotRepository>
-      <id>repo1</id>
-      <name>repo1</name>
-      <url>http://localhost:8081/repository/repo1/</url>
+      <id>local</id>
+      <name>local</name>
+      <url>http://localhost:8081/repository/local/</url>
     </snapshotRepository>
   </distributionManagement>
 </project>
